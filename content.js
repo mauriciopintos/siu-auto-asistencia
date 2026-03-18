@@ -49,7 +49,7 @@
 
   function actualizarPreview() {
     const lista = limpiarInput(textarea.value);
-    preview.innerHTML = `Detectados: ${lista.length}`;
+    preview.textContent = `Detectados: ${lista.length}`;
   }
 
   // Limpiar
