@@ -60,7 +60,7 @@ siu-auto-asistencia/
 
 ## 🚀 Instalación
 
-# Chrome
+### Chrome
 
 1. Descargar o clonar este repositorio
 2. Abrir el navegador e ir a: `chrome://extensions/`
@@ -68,7 +68,7 @@ siu-auto-asistencia/
 4. Hacer clic en **"Cargar descomprimida"**
 5. Seleccionar la carpeta del proyecto
 
-# Edge
+### Edge
 
 1. Descargar o clonar este repositorio
 2. Abrir el navegador e ir a: `edge://extensions/`
@@ -76,9 +76,9 @@ siu-auto-asistencia/
 4. Hacer clic en **"Cargar desempaquetada"**
 5. Seleccionar la carpeta del proyecto
 
-# Firefox
+### Firefox
 
-1. Descargar el archivo .xpi
+1. Descargar la última versión desde 'Releases' (archivo .xpi)
 2. Abrir el navegador e ir a: `about:addons`
 3. Hacer clic en en el engranaje de opciones y luego **"Instalar complemento desde archivo"**
 4. Seleccionar el archivo .xpi
