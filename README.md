@@ -104,12 +104,14 @@ Se acepta solo formatos número sin puntos ni comas.
 
 ## 🤝 Créditos y agradecimientos
 
-Este proyecto se construye sobre aportes clave:
+Este proyecto se basa en una idea original surgida en el ámbito de la **Universidad Nacional de Hurlingham (UNaHur)**, a partir del trabajo y la experiencia de docentes y alumnos.
 
-- 💡 Idea original de automatización basada en el trabajo de **Matías Müller**
-- 🚀 Impulso para implementarlo como extensión de Chrome por iniciativa de **Hernán Coniglio**
+Aportes clave:
 
-Sobre esa base, se desarrolló esta versión con foco en usabilidad, mantenimiento y extensibilidad.
+- 💡 La idea inicial de automatizar el marcado de asistencia surge del trabajo de **Matías Müller**
+- 🚀 La iniciativa de llevar esta solución a una extensión de Chrome fue impulsada por **Hernán Coniglio**
+
+Sobre esa base, se desarrolló esta versión, con foco en usabilidad, mantenimiento y extensibilidad, orientada a su aplicación en contextos reales.
 
 ---
 
